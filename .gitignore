@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship/*
+!/Battleship/task/
+/Battleship/task/*
+!/Battleship/task/src
+
+# Project exclude paths
+/Topics/Package/Sorting arrays/out/
+/Topics/Package/Sorting arrays/out/production/classes/
